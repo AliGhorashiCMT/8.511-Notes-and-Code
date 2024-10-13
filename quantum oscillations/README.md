@@ -1,3 +1,3 @@
-Notes on the de Haas-Van Alphen effect: 
+# Notes on the de Haas-Van Alphen effect: 
 
-https://hackmd.io/@aligho/r1paMsBJJ
+https://hackmd.io/@aligho/r1paMsBJJx
