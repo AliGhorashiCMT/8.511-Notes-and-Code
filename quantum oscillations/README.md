@@ -5,3 +5,7 @@ https://hackmd.io/@aligho/r1paMsBJJx
 # Notes on Landau Diamagnetism:  
 
 https://hackmd.io/@aligho/Bkg9as5ykg
+
+# Notes on extremal surface areas of an ellipsoidal cross-section:
+
+https://hackmd.io/@aligho/H1rfaYZeke
