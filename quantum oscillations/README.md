@@ -13,3 +13,7 @@ https://hackmd.io/@aligho/H1rfaYZeke
 # Problem set 6 solutions: 
 
 https://hackmd.io/@aligho/H1gQcrH1yg
+
+# Notes on Landau levels in graphene:
+
+https://hackmd.io/@aligho/r17tiu9xJx
