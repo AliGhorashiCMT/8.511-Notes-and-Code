@@ -2,6 +2,6 @@
 
 https://hackmd.io/@aligho/SyeF6dzXRR 
 
-## Pset Solutions (with LLM responses) 
+## Pset 4 Solutions (with LLM responses) 
 
 https://hackmd.io/@aligho/SybVAV3yyg
