@@ -17,3 +17,7 @@ https://hackmd.io/@aligho/H1gQcrH1yg
 # Notes on Landau levels in graphene:
 
 https://hackmd.io/@aligho/r17tiu9xJx
+
+# Notes on Hall conductivity of Landau levels:
+
+https://hackmd.io/@aligho/B1kRm2cxyl
