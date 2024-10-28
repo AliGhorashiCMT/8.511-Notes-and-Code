@@ -21,3 +21,7 @@ https://hackmd.io/@aligho/r17tiu9xJx
 # Notes on Hall conductivity of Landau levels:
 
 https://hackmd.io/@aligho/B1kRm2cxyl
+
+# Problem set 7 solutions: 
+
+https://hackmd.io/@aligho/rJWh2bJlkl
