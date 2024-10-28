@@ -14,7 +14,7 @@ These solutions will be made private after the completion of the Fall term.
  **kagome and graphene lattices**: Simulations of monolayer kagome lattices and monolayer/bilayer graphene lattices. Includes pset #5 solutions
  
  **quantum oscillations**: Landau levels, SDH oscillations, De Haas-Van Alphen oscillations, Landau diamagnetism, Landau levels in graphene, DC conductivities and their gauge invariance. 
- Includes pset #6 and #7 (forthcoming) solutions. 
+ Includes pset #6 and #7 solutions. 
 
 
 
