@@ -25,3 +25,11 @@ https://hackmd.io/@aligho/B1kRm2cxyl
 # Problem set 7 solutions: 
 
 https://hackmd.io/@aligho/rJWh2bJlkl
+
+# Hall conductivity of graphene via Kubo formula: 
+
+https://hackmd.io/@aligho/S1Rl_1k-kl
+
+# Problem set 8 solutions: 
+
+https://hackmd.io/@aligho/H10p58OxJx
