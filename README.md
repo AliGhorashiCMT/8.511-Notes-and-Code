@@ -16,5 +16,7 @@ These solutions will be made private after the completion of the Fall term.
  **quantum oscillations**: Landau levels, SDH oscillations, De Haas-Van Alphen oscillations, Landau diamagnetism, Landau levels in graphene, DC conductivities and their gauge invariance. 
  Includes pset #6 and #7 solutions. 
 
+ **topology**: Chern insulators, non-trivial edge states, calculation of Chern number through a sum over states, Berry phase (and hybrid Wannier center) winding, 
+
 
 
