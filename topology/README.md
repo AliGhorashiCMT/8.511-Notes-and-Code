@@ -4,6 +4,10 @@
 
 https://hackmd.io/@aligho/BkVpBDAMJx
 
+**Notes on conductivity through four different gauge conventions, and how the intraband position operator gives the Hall conductivity**
+
+https://hackmd.io/@aligho/SJLbTu1Q1g
+
 **Notes on finding the Chern number through C3 symmetry eigenvalues:**
 
 https://hackmd.io/@aligho/S1zowSzXJe (These correspond to the two notebooks on symmetry indicators for the Haldane model and the Kagome lattice)
