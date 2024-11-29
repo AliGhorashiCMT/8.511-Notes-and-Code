@@ -12,4 +12,8 @@ https://hackmd.io/@aligho/SJLbTu1Q1g
 
 https://hackmd.io/@aligho/S1zowSzXJe (These correspond to the two notebooks on symmetry indicators for the Haldane model and the Kagome lattice)
 
+**Notes on the Hall conductivity of Landau levels in length gauge**: 
+
+https://hackmd.io/@aligho/Sk0cpVBQ1g
+
 
