@@ -1,5 +1,7 @@
 **Problem set 9 solutions** https://hackmd.io/@aligho/Bylu6bZNWkx
 
+**Problem set 10 solutions** https://hackmd.io/@aligho/BJoXatvm1x
+
 **Notes on the intraband and interband matrix elements of the position operator and their relationships with the Berry connection:**
 
 https://hackmd.io/@aligho/BkVpBDAMJx
@@ -15,5 +17,4 @@ https://hackmd.io/@aligho/S1zowSzXJe (These correspond to the two notebooks on s
 **Notes on the Hall conductivity of Landau levels in length gauge**: 
 
 https://hackmd.io/@aligho/Sk0cpVBQ1g
-
 
