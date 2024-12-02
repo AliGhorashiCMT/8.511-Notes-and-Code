@@ -6,6 +6,10 @@
 
 https://hackmd.io/@aligho/BkVpBDAMJx
 
+**Notes on sum rules:**
+
+https://hackmd.io/@aligho/HksXTPsXkg 
+
 **Notes on conductivity through four different gauge conventions, and how the intraband position operator gives the Hall conductivity**
 
 https://hackmd.io/@aligho/SJLbTu1Q1g
