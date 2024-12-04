@@ -17,7 +17,7 @@ These solutions will be made private after the completion of the Fall term.
  Includes pset #6 and #7 solutions. 
 
  **topology**: Chern insulators, non-trivial edge states, calculation of Chern number through a sum over states, Berry phase (and hybrid Wannier center) winding, gauge invariance of conductivity, intraband
- position operator and its relationship to the intraband Berry connection, symmetry indicators for the Chern number. Includes pset #9 and #10 solutions. 
+ position operator and its relationship to the intraband Berry connection, symmetry indicators for the Chern number. Includes pset #9, #10, and #11 solutions. 
 
 
 
