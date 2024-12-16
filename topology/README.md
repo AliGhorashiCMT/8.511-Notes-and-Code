@@ -10,7 +10,9 @@ https://hackmd.io/@aligho/BkVpBDAMJx
 
 **Notes on sum rules:**
 
-https://hackmd.io/@aligho/HksXTPsXkg 
+Local limit: https://hackmd.io/@aligho/HksXTPsXkg 
+
+Nonlocal limit: https://hackmd.io/@aligho/rJSMoJ5NJg
 
 **Notes on conductivity through four different gauge conventions, and how the intraband position operator gives the Hall conductivity**
 
