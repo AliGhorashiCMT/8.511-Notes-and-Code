@@ -19,5 +19,8 @@ These solutions will be made private after the completion of the Fall term.
  **topology**: Chern insulators, non-trivial edge states, calculation of Chern number through a sum over states, Berry phase (and hybrid Wannier center) winding, gauge invariance of conductivity, intraband
  position operator and its relationship to the intraband Berry connection, symmetry indicators for the Chern number. Peierls instability and its scaling. Includes pset #9, #10, and #11 solutions. 
 
+ **practice exam 8.511** and **final exam 8.511** contain solution sets, code, and plots for the practice exam (which was the previous year's final exam) and the Fall 2024 final exam. Most notably, the final exam
+ folder contains code for degenerate perturbation theory in a triangular lattice (only including the lowest harmonic of the potential). 
+
 
 
