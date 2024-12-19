@@ -21,7 +21,7 @@ Also included are links to hackmd documents with solutions to problem sets 9, 10
     https://hackmd.io/@aligho/BkVpBDAMJx
   
   **Notes on sum rules**:
-    Local limit: https://hackmd.io/@aligho/HksXTPsXkg\ 
+    Local limit: https://hackmd.io/@aligho/HksXTPsXkg
     Nonlocal limit: https://hackmd.io/@aligho/rJSMoJ5NJg
   
   **Notes on conductivity through four different gauge conventions, and how the intraband position operator gives the Hall conductivity**:
@@ -34,8 +34,12 @@ Also included are links to hackmd documents with solutions to problem sets 9, 10
     https://hackmd.io/@aligho/Sk0cpVBQ1g
 
 ## Description of jupyter notebooks
+  **Peierls.ipynb**: Calculation of the Peierls instability in the exact limit and in the Dirac cone approximation (see page 140 of the book by Girvin and Yang). 
+  
   **Haldane.ipynb**: Calculation of the electronic dispersion, Berry curvature, Chern number, edge states, and Berry phase winding for the Haldane model
  
   **See Reference**: Haldane, F. Duncan M. "Model for a quantum Hall effect without Landau levels: Condensed-matter realization of the" parity anomaly"." Physical review letters 61.18 (1988): 2015.
+
+  **Kagome without TR.ipynb**: Calculation of the electronic dispersion, Berry phase winding, and edge states for a Kagome lattice in which time reversal symmetry is broken. 
   
 
