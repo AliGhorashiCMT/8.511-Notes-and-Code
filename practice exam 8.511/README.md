@@ -1,4 +1,4 @@
-# 8.511 Fall 2024 Practice exam:
+# 8.511 Fall 2024 practice exam:
 
 ## General description
 
