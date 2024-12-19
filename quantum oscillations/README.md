@@ -16,13 +16,11 @@ inverse of the magnetic field $\frac{1}{|\mathbf{B}|}$. Next, we calculate the H
   **Notes on extremal surface areas of an ellipsoidal cross-section**:
     https://hackmd.io/@aligho/H1rfaYZeke
 
-
   **Notes on Landau levels in graphene**:
     https://hackmd.io/@aligho/r17tiu9xJx
 
   **Notes on Hall conductivity of Landau levels**:
     https://hackmd.io/@aligho/B1kRm2cxyl
-
 
   **Hall conductivity of graphene via Kubo formula**: 
     https://hackmd.io/@aligho/S1Rl_1k-kl
@@ -37,3 +35,7 @@ inverse of the magnetic field $\frac{1}{|\mathbf{B}|}$. Next, we calculate the H
 
   **Problem set 8 solutions**: 
     https://hackmd.io/@aligho/H10p58OxJx
+
+## Description of jupyter notebooks 
+
+ **Hofstadter.ipynb**: Calculation of the Hoftstadter butterly spectrum 
