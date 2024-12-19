@@ -13,3 +13,7 @@ are also included.
 
   **Pset 4 Solutions (with LLM responses)**: 
     https://hackmd.io/@aligho/SybVAV3yyg
+
+## Description of jupyter notebooks
+
+  **Tight binding models and local field effects.ipynb**: Lieb lattice, bilayer square lattice, body centered cubic lattice solved in the primitive and conventional cells, as well as a discussion on supercell consistency. 
