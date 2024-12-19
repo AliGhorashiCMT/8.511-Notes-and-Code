@@ -35,11 +35,15 @@ Also included are links to hackmd documents with solutions to problem sets 9, 10
 
 ## Description of jupyter notebooks
   **Peierls.ipynb**: Calculation of the Peierls instability in the exact limit and in the Dirac cone approximation (see page 140 of the book by Girvin and Yang). 
+  **Filling anomaly.ipynb**: Realization of the filling anomaly and edge states at the boundary of two SSH chains. 
   
   **Haldane.ipynb**: Calculation of the electronic dispersion, Berry curvature, Chern number, edge states, and Berry phase winding for the Haldane model
  
   **See Reference**: Haldane, F. Duncan M. "Model for a quantum Hall effect without Landau levels: Condensed-matter realization of the" parity anomaly"." Physical review letters 61.18 (1988): 2015.
 
   **Kagome without TR.ipynb**: Calculation of the electronic dispersion, Berry phase winding, and edge states for a Kagome lattice in which time reversal symmetry is broken. 
-  
+
+  **Haldane symmetry indicators.ipynb** and **Kagome symmetry indicators.ipynb**: Calculating the Chern numbers of the Haldane and Kagome lattices above using $C_3$ rotational symmetry indicators. 
+
+  **Rice Mele.ipynb**: The Rice-Mele model 
 
