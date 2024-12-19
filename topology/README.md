@@ -17,10 +17,10 @@ Also included are links to hackmd documents with solutions to problem sets 9, 10
     https://hackmd.io/@aligho/r1tyZnsXye
 
 ## Hackmd notes on topological concepts
-  **Notes on the intraband and interband matrix elements of the position operator and their relationships with the Berry connection**:
+  **Notes on the intraband and interband matrix elements of the position operator and their relationships with the Berry connection**:\
     https://hackmd.io/@aligho/BkVpBDAMJx
   
-  **Notes on sum rules**:
+  **Notes on sum rules**:\
     Local limit: https://hackmd.io/@aligho/HksXTPsXkg 
     Nonlocal limit: https://hackmd.io/@aligho/rJSMoJ5NJg
   
