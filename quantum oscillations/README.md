@@ -3,7 +3,7 @@
 ## General description 
 Here, we explore the world of Bloch electrons in the presence of an external magnetic field. In particular, in the absence of a lattice potential, we find that a magnetic field engenders Landau levels, and, consequently, orbital
 diamagnetism. In addition, due to the pathological nature of the Landau level density of states, we find that material properties that depend on the density of states at the Fermi level generically oscillate periodically with the 
-inverse of the magnetic field $1/|\mathbf{B}|$. Next, we calculate the Hall conductivity of filled Landau levels and also explore Landau levels in monolayer graphene, which exhibit an odd $\sqrt{n}$ dispersion. 
+inverse of the magnetic field $\frac{1}{|\mathbf{B}|}$. Next, we calculate the Hall conductivity of filled Landau levels and also explore Landau levels in monolayer graphene, which exhibit an odd $\sqrt{n}$ dispersion. 
 
 ## Notes on quantum oscillations, the Hall conductivity, and Landau levels of a free electron gas and in graphene
 
