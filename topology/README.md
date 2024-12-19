@@ -43,7 +43,8 @@ Also included are links to hackmd documents with solutions to problem sets 9, 10
 
   **Kagome without TR.ipynb**: Calculation of the electronic dispersion, Berry phase winding, and edge states for a Kagome lattice in which time reversal symmetry is broken. 
 
-  **Haldane symmetry indicators.ipynb** and **Kagome symmetry indicators.ipynb**: Calculating the Chern numbers of the Haldane and Kagome lattices above using $C_3$ rotational symmetry indicators. 
+  **Haldane symmetry indicators.ipynb** and **Kagome symmetry indicators.ipynb**: Calculating the Chern numbers of the Haldane and Kagome lattices above using $C_3$ rotational symmetry indicators.
+  See *Vaidya, Sachin, et al. "Topological phases of photonic crystals under crystalline symmetries." Physical Review B 108.8 (2023): 085116.* for a good tutorial on how this works. 
 
   **Rice Mele.ipynb**: The Rice-Mele model. 
 
