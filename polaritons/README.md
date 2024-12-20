@@ -9,4 +9,4 @@ These are notes on polaritons, modes that arise from the coupling of light with 
 
 **Highly questionable proof of Clausius-Mossotti relations but also some discussion of systems with reduced dimensionality**: https://hackmd.io/@aligho/H1cXcTSa0
 
-**Some questionable recitation notes**: https://hackmd.io/@aligho/SJ3o-LDhR
+**Some questionable recitation notes**: https://hackmd.io/@aligho/SJ3o-LDhR The parts I'm confident about are the discussion on the phonon dispersion, cacluation of the force constants given the phonon dispersion, and the contribution of the Coulomb interaction to the force constants. 
