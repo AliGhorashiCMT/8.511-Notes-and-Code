@@ -7,14 +7,14 @@ These solutions will be made private after the completion of the Fall term.
 ## Folder structure 
  **heat capacities**: Pset #2 solutions
  
- **central equation**: Degenerate perturbation theory of the electron gas. Pset #3 solutions (forthcoming)
+ **central equation**: Degenerate perturbation theory of the electron gas. Includes pset #3 solutions.
  
- **tight binding**: An introduction to tight binding models. Includes pset #4 solutions
+ **tight binding**: An introduction to tight binding models. Includes pset #4 solutions.
  
- **kagome and graphene lattices**: Simulations of monolayer kagome lattices and monolayer/bilayer graphene lattices. Includes pset #5 solutions
+ **kagome and graphene lattices**: Simulations of monolayer kagome lattices and monolayer/bilayer graphene lattices. Includes pset #5 solutions.
  
  **quantum oscillations**: Landau levels, SDH oscillations, De Haas-Van Alphen oscillations, Landau diamagnetism, Landau levels in graphene, DC conductivities and their gauge invariance. 
- Includes pset #6 and #7 solutions. 
+ Includes pset #6, #7, and #8 solutions. 
 
  **topology**: Chern insulators, non-trivial edge states, calculation of Chern number through a sum over states, Berry phase (and hybrid Wannier center) winding, gauge invariance of conductivity, intraband
  position operator and its relationship to the intraband Berry connection, symmetry indicators for the Chern number. Peierls instability and its scaling. Includes pset #9, #10, and #11 solutions. 
